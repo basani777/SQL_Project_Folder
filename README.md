@@ -140,7 +140,7 @@ LIMIT 5;
 
 **Findings:**
 
-![Most In demand Skills](sql_project\assets\top_demand_skills.png)
+![Most In demand Skills](sql_project/assets/top_demand_skills.png)
  _The bar graph shows the most in demand skills for a data analyst to have in 2023. Claude provided the chart with my sql query result._
 
  **Top 5 most in-demand skills:**
