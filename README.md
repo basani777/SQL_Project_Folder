@@ -180,7 +180,7 @@ LIMIT 30;
 
 **Findings:**
 
-![Most payable skills](sql_project\assets\Top_paying_skills.png)
+![Most payable skills](sql_project/assets/Top_paying_skills.png)
  _The bar graph shows the highest payable skills for a data analyst to have in 2023. Claude provided the chart with my sql query result._
 
  **Top 10 highest-paying skills:**
@@ -231,7 +231,7 @@ ORDER BY
     demand_count DESC
 LIMIT 20;
 ```
-![Most optimal skills](sql_project\assets\Most_optimal_skills.png)
+![Most optimal skills](sql_project/assets/Most_optimal_skills.png)
  _The scatter plot shows the most optimal skills for a data analyst to have in 2023. Claude provided the chart with my sql query result._
 
  **Top 10 most optimal skills (balancing demand and salary):**
