@@ -63,7 +63,7 @@ LIMIT 10;
 ```
 **Findings:**
 
-![Top paying Data Analyst Jobs](sql_project\assets\Top_paying_jobs.png)
+![Top paying Data Analyst Jobs](sql_project/assets/Top_paying_jobs.png)
 
 - The top salary in the dataset reached **$650,000** — more than double the next-highest entry. This is a notable outlier worth treating with some caution rather than as a representative market rate.
 - The second-highest role came in at **$336,500**, a steep drop from the top result but still well above the rest of the list.
